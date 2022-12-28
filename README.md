@@ -1,3 +1,4 @@
+![app-screenshot](https://user-images.githubusercontent.com/62267270/209746176-1449dd3d-0754-4901-8ce2-aabb78a3b448.png)
 
 # Dependencies 
 expo,
